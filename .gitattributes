@@ -1,0 +1,3 @@
+# Never convert line endings for dynamic Comparch files and textual blob files
+module_metadata.json -text
+**/configuration/**/* -text

@@ -1,0 +1,9 @@
+{
+  "csweb_page_config": {
+    "CONTENT": [
+      {"PRIMARY_KEYS": {"page_id": "cst_ticket_class_view"}, "DATA": {"ausgabe_label": "csweb_label_default_page", "cdb_classname": "csweb_page_config_class", "cdb_module_id": "cstraining.web", "config_component": "", "config_location": "$CADDOK_MODULE + \"/views/ticket-classview.json\"", "pageframe_id": "csweb_default_page_frame", "priority": 10, "ui_name": "cst_ticket", "viewname": "default"}}
+    ],
+    "CONTENT_DOMAIN": "",
+    "UPDATE_POLICY": "ALWAYS UPDATED"
+  }
+}

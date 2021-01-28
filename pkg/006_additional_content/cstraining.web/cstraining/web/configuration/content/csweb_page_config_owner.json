@@ -1,0 +1,10 @@
+{
+  "csweb_page_config_owner": {
+    "CONTENT": [
+      {"PRIMARY_KEYS": {"page_id": "cst_ticket_class_view", "subject_id": "public", "subject_type": "Common Role"}, "DATA": {"cdb_module_id": "cstraining.web"}},
+      {"PRIMARY_KEYS": {"page_id": "cstraining-web", "subject_id": "public", "subject_type": "Common Role"}, "DATA": {"cdb_module_id": "cstraining.web"}}
+    ],
+    "CONTENT_DOMAIN": "",
+    "UPDATE_POLICY": "ALWAYS UPDATED"
+  }
+}

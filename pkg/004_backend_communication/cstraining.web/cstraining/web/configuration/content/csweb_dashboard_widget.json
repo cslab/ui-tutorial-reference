@@ -1,0 +1,10 @@
+{
+    "csweb_dashboard_widget": {
+      "CONTENT": [
+        {"PRIMARY_KEYS": {"id": "my-tickets"}, "DATA": {"cdb_module_id": "cstraining.web", "component": "cstraining-web-MyTicketsWidget", "description_de": "Zeigt Liste der mir zugewiesenen Tickets", "description_en": "Shows a list of tickets assigned to me", "description_tr": null, "description_zh": null, "library_name": "cstraining-web", "library_version": "0.0.1", "name_de": "Meine Tickets", "name_en": "My Tickets", "name_tr": null, "name_zh": null}},
+        {"PRIMARY_KEYS": {"id": "unassigned-tickets"}, "DATA": {"cdb_module_id": "cstraining.web", "component": "cstraining-web-UnassignedTicketsWidget", "description_de": "Zeigt Liste der nicht zugewiesenen Tickets", "description_en": "Shows a list of unassigned tickets", "description_tr": null, "description_zh": null, "library_name": "cstraining-web", "library_version": "0.0.1", "name_de": "Nicht zugewiesene Tickets", "name_en": "Unassigned Tickets", "name_tr": null, "name_zh": null}}
+      ],
+      "CONTENT_DOMAIN": "",
+      "UPDATE_POLICY": "ALWAYS UPDATED"
+    }
+  }

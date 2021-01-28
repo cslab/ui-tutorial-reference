@@ -1,0 +1,6 @@
+* FROM angestellter where personalnummer IN ('andymiller', 'edwin')
+* FROM cst_ticket
+* FROM cst_ticket_description_txt
+* FROM cst_ticket_log
+* FROM cst_ticket_log_notes_txt
+* FROM cdb_global_subj where subject_id IN ('andymiller', 'edwin')

@@ -1,0 +1,28 @@
+{
+    "configuration": {
+        "name": "cs-web-components-base-ClassViewWithFiles",
+        "components": {
+            "detail": {
+                "name": "cs-web-components-base-FileSelectionProvider",
+                "children": [
+                    {
+                        "name": "cstraining-web-TicketDetails"
+                    },
+                    {
+                        "name": "cs-web-components-base-Attributes"
+                    },
+                    {
+                        "name": "cs-web-components-base-FileList",
+                        "properties": {
+                            "contentHeight": "200px",
+                            "expanded": true
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "libraries": [
+        ["cstraining-web", "0.0.1"]
+    ]
+}

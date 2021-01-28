@@ -1,0 +1,28 @@
+{
+  "statiflow": {
+    "CONTENT": [
+      {"PRIMARY_KEYS": {"iststatus": 0, "objektart": "cst_ticket", "zielstatus": 100}, "DATA": {"acd_allow": "", "cdb_module_id": "cstraining.web", "internal_only": 0, "rang": null, "user_exit": "", "verteiler": null}},
+      {"PRIMARY_KEYS": {"iststatus": 0, "objektart": "cst_ticket", "zielstatus": 120}, "DATA": {"acd_allow": "", "cdb_module_id": "cstraining.web", "internal_only": 0, "rang": null, "user_exit": "", "verteiler": null}},
+      {"PRIMARY_KEYS": {"iststatus": 0, "objektart": "cst_ticket", "zielstatus": 140}, "DATA": {"acd_allow": "", "cdb_module_id": "cstraining.web", "internal_only": 0, "rang": null, "user_exit": "", "verteiler": null}},
+      {"PRIMARY_KEYS": {"iststatus": 0, "objektart": "cst_ticket", "zielstatus": 200}, "DATA": {"acd_allow": "", "cdb_module_id": "cstraining.web", "internal_only": 0, "rang": null, "user_exit": "", "verteiler": null}},
+      {"PRIMARY_KEYS": {"iststatus": 100, "objektart": "cst_ticket", "zielstatus": 0}, "DATA": {"acd_allow": "", "cdb_module_id": "cstraining.web", "internal_only": 0, "rang": null, "user_exit": "", "verteiler": null}},
+      {"PRIMARY_KEYS": {"iststatus": 100, "objektart": "cst_ticket", "zielstatus": 120}, "DATA": {"acd_allow": "", "cdb_module_id": "cstraining.web", "internal_only": 0, "rang": null, "user_exit": "", "verteiler": null}},
+      {"PRIMARY_KEYS": {"iststatus": 100, "objektart": "cst_ticket", "zielstatus": 140}, "DATA": {"acd_allow": "", "cdb_module_id": "cstraining.web", "internal_only": 0, "rang": null, "user_exit": "", "verteiler": null}},
+      {"PRIMARY_KEYS": {"iststatus": 100, "objektart": "cst_ticket", "zielstatus": 200}, "DATA": {"acd_allow": "", "cdb_module_id": "cstraining.web", "internal_only": 0, "rang": null, "user_exit": "", "verteiler": null}},
+      {"PRIMARY_KEYS": {"iststatus": 120, "objektart": "cst_ticket", "zielstatus": 0}, "DATA": {"acd_allow": "", "cdb_module_id": "cstraining.web", "internal_only": 0, "rang": null, "user_exit": "", "verteiler": null}},
+      {"PRIMARY_KEYS": {"iststatus": 120, "objektart": "cst_ticket", "zielstatus": 100}, "DATA": {"acd_allow": "", "cdb_module_id": "cstraining.web", "internal_only": 0, "rang": null, "user_exit": "", "verteiler": null}},
+      {"PRIMARY_KEYS": {"iststatus": 120, "objektart": "cst_ticket", "zielstatus": 140}, "DATA": {"acd_allow": "", "cdb_module_id": "cstraining.web", "internal_only": 0, "rang": null, "user_exit": "", "verteiler": null}},
+      {"PRIMARY_KEYS": {"iststatus": 120, "objektart": "cst_ticket", "zielstatus": 200}, "DATA": {"acd_allow": "", "cdb_module_id": "cstraining.web", "internal_only": 0, "rang": null, "user_exit": "", "verteiler": null}},
+      {"PRIMARY_KEYS": {"iststatus": 140, "objektart": "cst_ticket", "zielstatus": 0}, "DATA": {"acd_allow": "", "cdb_module_id": "cstraining.web", "internal_only": 0, "rang": null, "user_exit": "", "verteiler": null}},
+      {"PRIMARY_KEYS": {"iststatus": 140, "objektart": "cst_ticket", "zielstatus": 100}, "DATA": {"acd_allow": "", "cdb_module_id": "cstraining.web", "internal_only": 0, "rang": null, "user_exit": "", "verteiler": null}},
+      {"PRIMARY_KEYS": {"iststatus": 140, "objektart": "cst_ticket", "zielstatus": 120}, "DATA": {"acd_allow": "", "cdb_module_id": "cstraining.web", "internal_only": 0, "rang": null, "user_exit": "", "verteiler": null}},
+      {"PRIMARY_KEYS": {"iststatus": 140, "objektart": "cst_ticket", "zielstatus": 200}, "DATA": {"acd_allow": "", "cdb_module_id": "cstraining.web", "internal_only": 0, "rang": null, "user_exit": "", "verteiler": null}},
+      {"PRIMARY_KEYS": {"iststatus": 200, "objektart": "cst_ticket", "zielstatus": 0}, "DATA": {"acd_allow": "", "cdb_module_id": "cstraining.web", "internal_only": 0, "rang": null, "user_exit": "", "verteiler": null}},
+      {"PRIMARY_KEYS": {"iststatus": 200, "objektart": "cst_ticket", "zielstatus": 100}, "DATA": {"acd_allow": "", "cdb_module_id": "cstraining.web", "internal_only": 0, "rang": null, "user_exit": "", "verteiler": null}},
+      {"PRIMARY_KEYS": {"iststatus": 200, "objektart": "cst_ticket", "zielstatus": 120}, "DATA": {"acd_allow": "", "cdb_module_id": "cstraining.web", "internal_only": 0, "rang": null, "user_exit": "", "verteiler": null}},
+      {"PRIMARY_KEYS": {"iststatus": 200, "objektart": "cst_ticket", "zielstatus": 140}, "DATA": {"acd_allow": "", "cdb_module_id": "cstraining.web", "internal_only": 0, "rang": null, "user_exit": "", "verteiler": null}}
+    ],
+    "CONTENT_DOMAIN": "ObjectLifeCycle",
+    "UPDATE_POLICY": "OPTIONALLY UPDATED"
+  }
+}

@@ -1,0 +1,15 @@
+.#{$componentNameSpace}-TicketList {
+    .#{$componentNameSpace}-TicketList_header {
+       display: flex;
+       .#{$componentNameSpace}-TicketList_header_spacer {
+          flex-grow: 1;
+       }
+    }
+
+    .#{$componentNameSpace}-TicketDetailsBody {
+      padding: $margin-md;
+      &:nth-child(2n + 1) {
+        background-color: $gray-lightest;
+      }
+    }
+  }

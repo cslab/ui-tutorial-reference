@@ -1,0 +1,21 @@
+{
+  "MODIFIED": {
+    "cdb_op_names": [
+      {
+        "MODIFICATIONS": {
+          "menugroup": {
+            "NEW_VALUE": 40, 
+            "OLD_VALUE": 25
+          }, 
+          "ordering": {
+            "NEW_VALUE": 10, 
+            "OLD_VALUE": null
+          }
+        }, 
+        "PRIMARY_KEYS": {
+          "name": "cs_tasks_delegate"
+        }
+      }
+    ]
+  }
+}

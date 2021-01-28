@@ -1,0 +1,65 @@
+.#{$componentNameSpace}-DisplayUser {
+    display: flex;
+    align-items: center;
+
+    .#{$componentNameSpace}-DisplayUser-label {
+        color: $text-muted;
+        margin-left: $margin-sm;
+        margin-right: $margin-sm;
+    }
+}
+
+.#{$componentNameSpace}-TicketDetailsHeader {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    margin: $margin-sm;
+
+    // Override default margin of Tag
+    .cs-web-components-base-generic-tag {
+        margin: 0 $margin-sm;
+    }
+
+    // Styling for link element
+    > a {
+        margin-left: $margin-sm;
+        margin-right: $margin-sm;
+    }
+
+    .#{$componentNameSpace}-DisplayUser {
+        // Keep right aligned even if wrapping
+        flex-grow: 1;
+        justify-content: flex-end;
+    }
+
+    .#{$componentNameSpace}-TicketDetailsHeader-title {
+        flex-grow: 1;
+        font-weight: bold;
+        margin-left: $margin-sm;
+        margin-right: $margin-sm;
+    }
+
+    .#{$componentNameSpace}-StateTag {
+        min-width: 110px;
+    }
+}
+
+.#{$componentNameSpace}-TicketDetails-content {
+    margin: $margin-sm;
+}
+
+.#{$componentNameSpace}-TicketDetails-footer {
+    margin: $margin-sm;
+}
+
+.cs-web-components-base-thumbnail {
+    &.cs-web-components-base-thumbnail-icon {
+        &.#{$componentNameSpace}-DisplayUser-thumbnail--not_assigned {
+            background-color: $elements-danger-lightest;
+
+            svg > path {
+                fill: $elements-danger-lighter;
+            }
+        }
+    }
+}

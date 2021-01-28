@@ -1,0 +1,13 @@
+{
+  "cdbdd_constraint": {
+    "CONTENT": [
+      {"PRIMARY_KEYS": {"cdb_object_id": "2a81ae85-725e-11e9-9c27-e4a471c02050"}, "DATA": {"cdb_classname": "cdbdd_primary_key", "cdb_module_id": "cstraining.web", "classname": "cst_ticket", "description": null, "exclude_empty_values": null, "fields_info": "cdb_object_id"}},
+      {"PRIMARY_KEYS": {"cdb_object_id": "45647972-732e-11e9-9c27-e4a471c02050"}, "DATA": {"cdb_classname": "cdbdd_primary_key", "cdb_module_id": "cstraining.web", "classname": "cst_ticket_log", "description": null, "exclude_empty_values": null, "fields_info": "cdb_object_id"}},
+      {"PRIMARY_KEYS": {"cdb_object_id": "7af8e8da-731e-11e9-9c27-e4a471c02050"}, "DATA": {"cdb_classname": "cdbdd_primary_key", "cdb_module_id": "cstraining.web", "classname": "cst_ticket2document", "description": null, "exclude_empty_values": null, "fields_info": "ticket_object_id, document_object_id"}},
+      {"PRIMARY_KEYS": {"cdb_object_id": "b13179ed-7310-11e9-9c27-e4a471c02050"}, "DATA": {"cdb_classname": "cdbdd_primary_key", "cdb_module_id": "cstraining.web", "classname": "cst_ticket_priority", "description": null, "exclude_empty_values": null, "fields_info": "code"}},
+      {"PRIMARY_KEYS": {"cdb_object_id": "f6363988-7330-11e9-9c27-e4a471c02050"}, "DATA": {"cdb_classname": "cdbdd_primary_key", "cdb_module_id": "cstraining.web", "classname": "cst_ticket_log_evt_type", "description": null, "exclude_empty_values": null, "fields_info": "code"}}
+    ],
+    "CONTENT_DOMAIN": "",
+    "UPDATE_POLICY": "ALWAYS UPDATED"
+  }
+}

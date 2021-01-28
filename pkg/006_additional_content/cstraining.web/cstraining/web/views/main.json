@@ -1,0 +1,46 @@
+{
+    "configuration": {
+        "name": "cstraining-web-Frame",
+        "children": [
+            {
+                "name": "cs-web-components-base-SplitterLayout",
+                "children": [
+                    {
+                        "name": "cs-web-components-base-SplitterLayout-PrimaryPane",
+                        "children": [
+                            {
+                                "name": "cs-web-components-base-ContextObjectSetter",
+                                "properties": {"setPath": "ticket-selection"},
+                                "children": [{"name": "cstraining-web-TicketFilter"}]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "cs-web-components-base-SplitterLayout-SecondaryPane",
+                        "children": [
+                            {
+                                "name": "cs-web-components-base-SimpleLayout",
+                                "children": [
+                                    {"name": "cs-web-components-base-ContextObjectGuard",
+                                     "properties": {"readPath": "ticket-selection"},
+                                     "children": [
+                                         {"name": "cs-web-components-base-ContextObjectWrapper",
+                                          "properties": {"readPath": "ticket-selection"},
+                                          "children":[{"name": "cstraining-web-TicketDetails"}]},
+                                         {"name": "cs-web-components-base-ContextObjectWrapper",
+                                          "properties": {"readPath": "ticket-selection"},
+                                          "children": [{
+                                              "name": "cs-web-components-base-FileList",
+                                              "properties": {"contentHeight": "200px"}}]}]}
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "libraries": [
+        ["cstraining-web", "0.0.1"]
+    ]
+}

@@ -1,0 +1,12 @@
+{
+  "cdb_rs_owner": {
+    "CONTENT": [
+      {"PRIMARY_KEYS": {"name": "cst_ticket2cdb_file", "role_id": "public"}, "DATA": {"cdb_module_id": "cstraining.web"}},
+      {"PRIMARY_KEYS": {"name": "cst_ticket2document", "role_id": "public"}, "DATA": {"cdb_module_id": "cstraining.web"}},
+      {"PRIMARY_KEYS": {"name": "cst_ticket2log", "role_id": "public"}, "DATA": {"cdb_module_id": "cstraining.web"}},
+      {"PRIMARY_KEYS": {"name": "cst_ticket2objektstati", "role_id": "public"}, "DATA": {"cdb_module_id": "cstraining.web"}}
+    ],
+    "CONTENT_DOMAIN": "",
+    "UPDATE_POLICY": "ALWAYS UPDATED"
+  }
+}

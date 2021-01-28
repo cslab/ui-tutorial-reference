@@ -1,0 +1,9 @@
+{
+  "csweb_ui_name": {
+    "CONTENT": [
+      {"PRIMARY_KEYS": {"classname": "cst_ticket", "ui_name": "cst_ticket"}, "DATA": {"cdb_module_id": "cstraining.web"}}
+    ],
+    "CONTENT_DOMAIN": "",
+    "UPDATE_POLICY": "ALWAYS UPDATED"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "maskenzuordnung": {
+    "CONTENT": [
+      {"PRIMARY_KEYS": {"name": "cst_ticket", "role_id": "public"}, "DATA": {"cdb_classname": "cdb_maskenzuordnung", "cdb_icon_id": null, "cdb_module_id": "cstraining.web", "ersteller": "caddok", "html_help": null}},
+      {"PRIMARY_KEYS": {"name": "cst_ticket2document", "role_id": "public"}, "DATA": {"cdb_classname": "cdb_maskenzuordnung", "cdb_icon_id": null, "cdb_module_id": "cstraining.web", "ersteller": "caddok", "html_help": null}},
+      {"PRIMARY_KEYS": {"name": "cst_ticket_comp", "role_id": "public"}, "DATA": {"cdb_classname": "cdb_mask_comp", "cdb_module_id": "cstraining.web", "ersteller": "caddok", "html_help": null, "predicate_mask": null}},
+      {"PRIMARY_KEYS": {"name": "cst_ticket_log", "role_id": "public"}, "DATA": {"cdb_classname": "cdb_maskenzuordnung", "cdb_icon_id": null, "cdb_module_id": "cstraining.web", "ersteller": "caddok", "html_help": null}},
+      {"PRIMARY_KEYS": {"name": "cst_ticket_log_evt_type", "role_id": "public"}, "DATA": {"cdb_classname": "cdb_maskenzuordnung", "cdb_icon_id": null, "cdb_module_id": "cstraining.web", "ersteller": "caddok", "html_help": null}},
+      {"PRIMARY_KEYS": {"name": "cst_ticket_priority", "role_id": "public"}, "DATA": {"cdb_classname": "cdb_maskenzuordnung", "cdb_icon_id": null, "cdb_module_id": "cstraining.web", "ersteller": "caddok", "html_help": null}},
+      {"PRIMARY_KEYS": {"name": "cst_ticket_state", "role_id": "public"}, "DATA": {"cdb_classname": "cdb_maskenzuordnung", "cdb_icon_id": null, "cdb_module_id": "cstraining.web", "ersteller": "caddok", "html_help": null}}
+    ],
+    "CONTENT_DOMAIN": "",
+    "UPDATE_POLICY": "ALWAYS UPDATED"
+  }
+}

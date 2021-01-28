@@ -1,0 +1,28 @@
+{
+  "cdb_wflow_rights": {
+    "CONTENT": [
+      {"PRIMARY_KEYS": {"iststatus": 0, "objektart": "cst_ticket", "subject_id": "public", "subject_type": "Common Role", "zielstatus": 100}, "DATA": {"cdb_module_id": "cstraining.web"}},
+      {"PRIMARY_KEYS": {"iststatus": 0, "objektart": "cst_ticket", "subject_id": "public", "subject_type": "Common Role", "zielstatus": 120}, "DATA": {"cdb_module_id": "cstraining.web"}},
+      {"PRIMARY_KEYS": {"iststatus": 0, "objektart": "cst_ticket", "subject_id": "public", "subject_type": "Common Role", "zielstatus": 140}, "DATA": {"cdb_module_id": "cstraining.web"}},
+      {"PRIMARY_KEYS": {"iststatus": 0, "objektart": "cst_ticket", "subject_id": "public", "subject_type": "Common Role", "zielstatus": 200}, "DATA": {"cdb_module_id": "cstraining.web"}},
+      {"PRIMARY_KEYS": {"iststatus": 100, "objektart": "cst_ticket", "subject_id": "public", "subject_type": "Common Role", "zielstatus": 0}, "DATA": {"cdb_module_id": "cstraining.web"}},
+      {"PRIMARY_KEYS": {"iststatus": 100, "objektart": "cst_ticket", "subject_id": "public", "subject_type": "Common Role", "zielstatus": 120}, "DATA": {"cdb_module_id": "cstraining.web"}},
+      {"PRIMARY_KEYS": {"iststatus": 100, "objektart": "cst_ticket", "subject_id": "public", "subject_type": "Common Role", "zielstatus": 140}, "DATA": {"cdb_module_id": "cstraining.web"}},
+      {"PRIMARY_KEYS": {"iststatus": 100, "objektart": "cst_ticket", "subject_id": "public", "subject_type": "Common Role", "zielstatus": 200}, "DATA": {"cdb_module_id": "cstraining.web"}},
+      {"PRIMARY_KEYS": {"iststatus": 120, "objektart": "cst_ticket", "subject_id": "public", "subject_type": "Common Role", "zielstatus": 0}, "DATA": {"cdb_module_id": "cstraining.web"}},
+      {"PRIMARY_KEYS": {"iststatus": 120, "objektart": "cst_ticket", "subject_id": "public", "subject_type": "Common Role", "zielstatus": 100}, "DATA": {"cdb_module_id": "cstraining.web"}},
+      {"PRIMARY_KEYS": {"iststatus": 120, "objektart": "cst_ticket", "subject_id": "public", "subject_type": "Common Role", "zielstatus": 140}, "DATA": {"cdb_module_id": "cstraining.web"}},
+      {"PRIMARY_KEYS": {"iststatus": 120, "objektart": "cst_ticket", "subject_id": "public", "subject_type": "Common Role", "zielstatus": 200}, "DATA": {"cdb_module_id": "cstraining.web"}},
+      {"PRIMARY_KEYS": {"iststatus": 140, "objektart": "cst_ticket", "subject_id": "public", "subject_type": "Common Role", "zielstatus": 0}, "DATA": {"cdb_module_id": "cstraining.web"}},
+      {"PRIMARY_KEYS": {"iststatus": 140, "objektart": "cst_ticket", "subject_id": "public", "subject_type": "Common Role", "zielstatus": 100}, "DATA": {"cdb_module_id": "cstraining.web"}},
+      {"PRIMARY_KEYS": {"iststatus": 140, "objektart": "cst_ticket", "subject_id": "public", "subject_type": "Common Role", "zielstatus": 120}, "DATA": {"cdb_module_id": "cstraining.web"}},
+      {"PRIMARY_KEYS": {"iststatus": 140, "objektart": "cst_ticket", "subject_id": "public", "subject_type": "Common Role", "zielstatus": 200}, "DATA": {"cdb_module_id": "cstraining.web"}},
+      {"PRIMARY_KEYS": {"iststatus": 200, "objektart": "cst_ticket", "subject_id": "public", "subject_type": "Common Role", "zielstatus": 0}, "DATA": {"cdb_module_id": "cstraining.web"}},
+      {"PRIMARY_KEYS": {"iststatus": 200, "objektart": "cst_ticket", "subject_id": "public", "subject_type": "Common Role", "zielstatus": 100}, "DATA": {"cdb_module_id": "cstraining.web"}},
+      {"PRIMARY_KEYS": {"iststatus": 200, "objektart": "cst_ticket", "subject_id": "public", "subject_type": "Common Role", "zielstatus": 120}, "DATA": {"cdb_module_id": "cstraining.web"}},
+      {"PRIMARY_KEYS": {"iststatus": 200, "objektart": "cst_ticket", "subject_id": "public", "subject_type": "Common Role", "zielstatus": 140}, "DATA": {"cdb_module_id": "cstraining.web"}}
+    ],
+    "CONTENT_DOMAIN": "ObjectLifeCycle",
+    "UPDATE_POLICY": "OPTIONALLY UPDATED"
+  }
+}

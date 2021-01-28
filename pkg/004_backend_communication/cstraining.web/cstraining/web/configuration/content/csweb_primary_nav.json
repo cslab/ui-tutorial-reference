@@ -1,0 +1,9 @@
+{
+  "csweb_primary_nav": {
+    "CONTENT": [
+      {"PRIMARY_KEYS": {"cdb_object_id": "f62b1f71-5670-11eb-b2c2-54e1ad891cd5"}, "DATA": {"app_link": "/info/ticket", "ausgabe_label": "cst_app_label", "cdb_icon_id": "cst_ticket", "cdb_module_id": "cstraining.web", "conf_link": "", "nav_section": "body", "pos": 0, "tooltip": ""}}
+    ],
+    "CONTENT_DOMAIN": "",
+    "UPDATE_POLICY": "ALWAYS UPDATED"
+  }
+}

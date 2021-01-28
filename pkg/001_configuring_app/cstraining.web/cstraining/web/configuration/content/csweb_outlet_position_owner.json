@@ -1,0 +1,11 @@
+{
+  "csweb_outlet_position_owner": {
+    "CONTENT": [
+      {"PRIMARY_KEYS": {"classname": "cst_ticket", "outlet_name": "object_details", "pos": 20, "priority": 10, "role_id": "public"}, "DATA": {"cdb_module_id": "cstraining.web"}},
+      {"PRIMARY_KEYS": {"classname": "cst_ticket", "outlet_name": "object_details", "pos": 30, "priority": 10, "role_id": "public"}, "DATA": {"cdb_module_id": "cstraining.web"}},
+      {"PRIMARY_KEYS": {"classname": "cst_ticket", "outlet_name": "object_details", "pos": 40, "priority": 10, "role_id": "public"}, "DATA": {"cdb_module_id": "cstraining.web"}}
+    ],
+    "CONTENT_DOMAIN": "",
+    "UPDATE_POLICY": "ALWAYS UPDATED"
+  }
+}

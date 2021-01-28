@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+<cis-name>ticket</cis-name>
+<cis-semantic>primary</cis-semantic>
+<path fill="#0080C5" d="M4,6V2h2c0,1,0.79,1.75,1.5,1.75S9,3,9,2h2v4H4z M11,7v7H9c0-1-0.52-1.75-1.5-1.75S6,13,6,14H4V7H11z"/>
+</svg>

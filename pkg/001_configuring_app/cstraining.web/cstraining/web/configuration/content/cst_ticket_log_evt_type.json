@@ -1,0 +1,11 @@
+{
+  "cst_ticket_log_evt_type": {
+    "CONTENT": [
+      {"PRIMARY_KEYS": {"code": "email"}, "DATA": {"name_de": "Email", "name_en": "Email", "name_tr": "", "name_zh": ""}},
+      {"PRIMARY_KEYS": {"code": "personal_communication"}, "DATA": {"name_de": "Pers\u00f6nliche Kommunikation", "name_en": "Personal Communication", "name_tr": "", "name_zh": ""}},
+      {"PRIMARY_KEYS": {"code": "phone_call"}, "DATA": {"name_de": "Telefonanruf", "name_en": "Phone Call", "name_tr": "", "name_zh": ""}}
+    ],
+    "CONTENT_DOMAIN": "",
+    "UPDATE_POLICY": "ALWAYS REPLACED"
+  }
+}

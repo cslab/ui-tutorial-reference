@@ -1,0 +1,10 @@
+{
+  "csweb_dialog_hook_func": {
+    "CONTENT": [
+      {"PRIMARY_KEYS": {"hook_name": "CstTicketSetMandatory"}, "DATA": {"backend": 1, "cdb_module_id": "cstraining.web", "description": "", "function_name": "cstraining.web.ticket_set_mandatory_hook"}},
+      {"PRIMARY_KEYS": {"hook_name": "CstTicketSetMandatoryFrontend"}, "DATA": {"backend": 0, "cdb_module_id": "cstraining.web", "description": "", "function_name": "cstraining-web-CstTicketSetMandatoryFrontend"}}
+    ],
+    "CONTENT_DOMAIN": "",
+    "UPDATE_POLICY": "ALWAYS UPDATED"
+  }
+}

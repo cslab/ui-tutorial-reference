@@ -1,0 +1,10 @@
+{
+  "cdb_mask_reg": {
+    "CONTENT": [
+      {"PRIMARY_KEYS": {"mask_name": "cst_ticket_comp", "mask_role_id": "public", "name": "cdb_elink_activitystream"}, "DATA": {"cdb_module_id": "cstraining.web", "ordering": 20, "priority": 20, "reg_title": "cdbblog_activity_stream"}},
+      {"PRIMARY_KEYS": {"mask_name": "cst_ticket_comp", "mask_role_id": "public", "name": "cst_ticket"}, "DATA": {"cdb_module_id": "cstraining.web", "ordering": 10, "priority": 10, "reg_title": null}}
+    ],
+    "CONTENT_DOMAIN": "",
+    "UPDATE_POLICY": "ALWAYS UPDATED"
+  }
+}

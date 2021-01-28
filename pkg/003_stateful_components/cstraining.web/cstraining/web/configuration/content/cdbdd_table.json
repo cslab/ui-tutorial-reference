@@ -1,0 +1,14 @@
+{
+  "cdbdd_table": {
+    "CONTENT": [
+      {"PRIMARY_KEYS": {"table_name": "cst_ticket"}, "DATA": {"cdb_classname": "cdbdd_table", "cdb_module_id": "cstraining.web"}},
+      {"PRIMARY_KEYS": {"table_name": "cst_ticket2document"}, "DATA": {"cdb_classname": "cdbdd_table", "cdb_module_id": "cstraining.web"}},
+      {"PRIMARY_KEYS": {"table_name": "cst_ticket_log"}, "DATA": {"cdb_classname": "cdbdd_table", "cdb_module_id": "cstraining.web"}},
+      {"PRIMARY_KEYS": {"table_name": "cst_ticket_log_evt_type"}, "DATA": {"cdb_classname": "cdbdd_table", "cdb_module_id": "cstraining.web"}},
+      {"PRIMARY_KEYS": {"table_name": "cst_ticket_priority"}, "DATA": {"cdb_classname": "cdbdd_table", "cdb_module_id": "cstraining.web"}},
+      {"PRIMARY_KEYS": {"table_name": "cst_ticket_v"}, "DATA": {"addtl_1": null, "addtl_5": null, "addtl_6": null, "cdb_classname": "cdbdd_class_view", "cdb_module_id": "cstraining.web", "primary_table": "cst_ticket"}}
+    ],
+    "CONTENT_DOMAIN": "",
+    "UPDATE_POLICY": "ALWAYS UPDATED"
+  }
+}

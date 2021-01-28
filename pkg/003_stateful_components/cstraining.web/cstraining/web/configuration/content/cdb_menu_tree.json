@@ -1,0 +1,14 @@
+{
+  "cdb_menu_tree": {
+    "CONTENT": [
+      {"PRIMARY_KEYS": {"cdb_object_id": "3541e4b8-7332-11e9-9c27-e4a471c02050"}, "DATA": {"ausgabe_label": "", "cdb_module_id": "cstraining.web", "classname": "cst_ticket_log", "decomp_id": "", "icon_id": "", "ordering": 1000, "parent_id": "30f646b0-96cb-11e2-b6f7-78acc0a55b77"}},
+      {"PRIMARY_KEYS": {"cdb_object_id": "3c167818-7331-11e9-9c27-e4a471c02050"}, "DATA": {"ausgabe_label": "", "cdb_module_id": "cstraining.web", "classname": "cst_ticket_log_evt_type", "decomp_id": "", "icon_id": "", "ordering": 1000, "parent_id": "b56985bb-7311-11e9-9c27-e4a471c02050"}},
+      {"PRIMARY_KEYS": {"cdb_object_id": "b56985bb-7311-11e9-9c27-e4a471c02050"}, "DATA": {"ausgabe_label": "cst_app_label", "cdb_module_id": "cstraining.web", "classname": "", "decomp_id": "", "icon_id": "", "ordering": 500, "parent_id": "92a5f794-2528-11df-b716-e1f861774235"}},
+      {"PRIMARY_KEYS": {"cdb_object_id": "c05d3f23-731e-11e9-9c27-e4a471c02050"}, "DATA": {"ausgabe_label": "", "cdb_module_id": "cstraining.web", "classname": "cst_ticket2document", "decomp_id": "", "icon_id": "", "ordering": 1000, "parent_id": "30f646b0-96cb-11e2-b6f7-78acc0a55b77"}},
+      {"PRIMARY_KEYS": {"cdb_object_id": "dd6b17b5-7311-11e9-9c27-e4a471c02050"}, "DATA": {"ausgabe_label": "", "cdb_module_id": "cstraining.web", "classname": "cst_ticket_priority", "decomp_id": "", "icon_id": "", "ordering": 10, "parent_id": "b56985bb-7311-11e9-9c27-e4a471c02050"}},
+      {"PRIMARY_KEYS": {"cdb_object_id": "faab9ddb-725f-11e9-9c27-e4a471c02050"}, "DATA": {"ausgabe_label": "", "cdb_module_id": "cstraining.web", "classname": "cst_ticket", "decomp_id": "", "icon_id": "", "ordering": 110, "parent_id": "919b0145-2528-11df-b716-e1f861774235"}}
+    ],
+    "CONTENT_DOMAIN": "",
+    "UPDATE_POLICY": "ALWAYS UPDATED"
+  }
+}

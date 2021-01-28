@@ -1,0 +1,10 @@
+{
+  "csweb_display_configuration": {
+    "CONTENT": [
+      {"PRIMARY_KEYS": {"classname": "cst_ticket", "name": "attributes"}, "DATA": {"cdb_module_id": "cstraining.web", "mask_name": "cst_ticket_props"}},
+      {"PRIMARY_KEYS": {"classname": "cst_ticket", "name": "object_header"}, "DATA": {"cdb_module_id": "cstraining.web", "mask_name": "cst_ticket_header"}}
+    ],
+    "CONTENT_DOMAIN": "",
+    "UPDATE_POLICY": "ALWAYS UPDATED"
+  }
+}

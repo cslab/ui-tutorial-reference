@@ -1,0 +1,25 @@
+{
+  "build_info": {
+    "export_version": 7, 
+    "package_versions": {
+      "cs.documents": "15.5.0.4", 
+      "cs.platform": "15.5.8", 
+      "cs.web": "15.5.0.6"
+    }
+  }, 
+  "dependencies": [], 
+  "module": {
+    "DATA": {
+      "cdb_object_id": "edb7ab35-7256-11e9-9c27-e4a471c02050", 
+      "master_config_checksum": "0ca11b99b70e0de060cb3b81ab26e1cf", 
+      "name": "Customer module", 
+      "package": "cstraining.web"
+    }, 
+    "LONGTEXTS": {
+      "cdb_module_txt": ""
+    }, 
+    "PRIMARY_KEYS": {
+      "module_id": "cstraining.web"
+    }
+  }
+}
