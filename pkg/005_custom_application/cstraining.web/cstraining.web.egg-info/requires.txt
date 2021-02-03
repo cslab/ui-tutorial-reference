@@ -1,3 +1,0 @@
-cs.platform
-cs.web
-cs.documents
