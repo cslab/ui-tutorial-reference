@@ -1,5 +1,5 @@
 # Reference Implementation for Elements UI Development Tutorial
-Sample solution for the Elements UI Development [Tutorial](https://docs.contact.de/15.5/en/programming/web_ui_dev_tutorial/).
+Sample solution for the Elements UI Development Tutorial.
 
 The tutorial will guide you through the complete process of installing a 
 CONTACT Elements instance and implementing your own application with it.
