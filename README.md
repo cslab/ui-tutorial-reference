@@ -1,4 +1,4 @@
-# Reference Implementation for Elements UI Development Tutorial
+# Reference Implementation for CONTACT Elements UI Development Tutorial
 Sample solution for the Elements UI Development Tutorial.
 
 The tutorial will guide you through the complete process of installing a 
