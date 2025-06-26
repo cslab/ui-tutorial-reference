@@ -1,8 +1,11 @@
-from cdb.comparch.pkgtools import setup
+from setuptools import setup, find_namespace_packages
+from setuptools_ce.build import build
 
 setup(
     name="cstraining.web",
     version="1.0.0",
+    cmdclass={"build": build},
+    setup_requires=["setuptools-ce"],
     install_requires=['cs.platform', 'cs.web', 'cs.documents'],
     docsets=[
         # Add a relative path for each documentation set in this package
