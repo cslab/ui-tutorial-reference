@@ -12,7 +12,6 @@ export function getObjectsById(state) {
     );
 }
 
-
 export function createTicketCache(ticketFilter) {
     return reselect.createSelector(
         [getObjectsById],

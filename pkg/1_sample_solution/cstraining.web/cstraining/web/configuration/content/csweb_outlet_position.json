@@ -1,0 +1,12 @@
+{
+  "csweb_outlet_position": {
+    "CONTENT": [
+      {"PRIMARY_KEYS": {"classname": "cst_ticket", "outlet_name": "object_details", "outlet_position_identifier": "050dc932-90aa-11f1-8554-ac91a1fe8009"}, "DATA": {"ausgabe_label": "", "cdb_icon_id": "", "cdb_module_id": "cstraining.web", "child_name": "Form", "json_properties": "", "outlet_pos_id": "", "pos": 20, "priority": 10, "setup_fqpyname": ""}},
+      {"PRIMARY_KEYS": {"classname": "cst_ticket", "outlet_name": "object_details", "outlet_position_identifier": "0e1491de-90aa-11f1-8554-ac91a1fe8009"}, "DATA": {"ausgabe_label": "", "cdb_icon_id": "CDB Relship Register", "cdb_module_id": "cstraining.web", "child_name": "DetailOutletRelationshipTable", "json_properties": "", "outlet_pos_id": "", "pos": 30, "priority": 10, "setup_fqpyname": ""}},
+      {"PRIMARY_KEYS": {"classname": "cst_ticket", "outlet_name": "object_details", "outlet_position_identifier": "268af43f-90aa-11f1-8554-ac91a1fe8009"}, "DATA": {"ausgabe_label": "", "cdb_icon_id": "", "cdb_module_id": "cstraining.web", "child_name": "FileList", "json_properties": "", "outlet_pos_id": "", "pos": 40, "priority": 10, "setup_fqpyname": ""}},
+      {"PRIMARY_KEYS": {"classname": "cst_ticket", "outlet_name": "object_details", "outlet_position_identifier": "f80c6f06-90a9-11f1-8554-ac91a1fe8009"}, "DATA": {"ausgabe_label": "", "cdb_icon_id": "", "cdb_module_id": "cstraining.web", "child_name": "cs-activitystream-web-ObjectActivities", "json_properties": "", "outlet_pos_id": "", "pos": 10, "priority": 10, "setup_fqpyname": ""}}
+    ],
+    "CONTENT_DOMAIN": "",
+    "UPDATE_POLICY": "ALWAYS UPDATED"
+  }
+}

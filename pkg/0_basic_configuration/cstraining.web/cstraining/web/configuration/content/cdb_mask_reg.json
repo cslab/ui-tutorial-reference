@@ -1,0 +1,9 @@
+{
+  "cdb_mask_reg": {
+    "CONTENT": [
+      {"PRIMARY_KEYS": {"mask_name": "cst_ticket_comp", "mask_role_id": "public", "name": "cst_ticket"}, "DATA": {"cdb_module_id": "cstraining.web", "ordering": 10, "priority": 10, "reg_title": null}}
+    ],
+    "CONTENT_DOMAIN": "",
+    "UPDATE_POLICY": "ALWAYS UPDATED"
+  }
+}

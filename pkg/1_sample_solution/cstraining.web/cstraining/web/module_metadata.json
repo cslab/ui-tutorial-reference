@@ -1,0 +1,27 @@
+{
+  "build_info": {
+    "export_version": 7,
+    "info": "Checksum was updated by cdbpkg validate: 8a185dd16f466d5d89fa49fd095694fd -> 2c1e0f6a3bf46e9f85bf3623705f5188",
+    "package_versions": {
+      "cs.admin": "16.2.0.2",
+      "cs.documents": "16.2.0.6",
+      "cs.platform": "16.2.11.dev61+g7666fbac5",
+      "cs.web": "16.2.0.10"
+    }
+  },
+  "dependencies": [],
+  "module": {
+    "DATA": {
+      "cdb_object_id": "edb7ab35-7256-11e9-9c27-e4a471c02050",
+      "master_config_checksum": "2c1e0f6a3bf46e9f85bf3623705f5188",
+      "name": "Customer module",
+      "package": "cstraining.web"
+    },
+    "LONGTEXTS": {
+      "cdb_module_txt": ""
+    },
+    "PRIMARY_KEYS": {
+      "module_id": "cstraining.web"
+    }
+  }
+}
