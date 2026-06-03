@@ -1,13 +1,13 @@
 import React, {useState, useEffect, useMemo} from 'react';
 import Immutable from 'immutable';
-import {ImmutablePropTypes, PropTypes, connect} from 'cs-web-components-externals';
+import {PropTypes, ReactRedux} from 'cs-web-components-externals';
 import {getAppSetup, FormControl, ContentBlock, SplitterLayout} from 'cs-web-components-base';
 import {prefixNS} from '../helpers.js';
 import TicketList from './TicketList.jsx';
-import * as TicketActions from '../actions/ticket-actions.js';
+import {initializeTickets, reloadTickets} from '../actions/ticket-actions.js';
 import {createTicketCacheWithFilter} from '../selectors/ticket-selectors.js';
 
-const {useDispatch, useSelector} = ReactRedux;
+const {useSelector, useDispatch} = ReactRedux;
 
 function FilterBlock(props) {
     const {title, children} = props;
@@ -113,6 +113,7 @@ ConnectedTicketList.propTypes = {
     ticketFilter: PropTypes.func,
     onSelect: PropTypes.func,
 };
+
 export default function FilteredTicketList(props) {
     const {onSelect} = props;
     const [ticketFilter, setTicketFilter] = useState(() => () => true);

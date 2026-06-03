@@ -1,0 +1,12 @@
+{
+  "csweb_outlet_position_owner": {
+    "CONTENT": [
+      {"PRIMARY_KEYS": {"classname": "cst_ticket", "outlet_name": "object_details", "outlet_position_identifier": "050dc932-90aa-11f1-8554-ac91a1fe8009", "role_id": "public"}, "DATA": {"cdb_module_id": "cstraining.web"}},
+      {"PRIMARY_KEYS": {"classname": "cst_ticket", "outlet_name": "object_details", "outlet_position_identifier": "0e1491de-90aa-11f1-8554-ac91a1fe8009", "role_id": "public"}, "DATA": {"cdb_module_id": "cstraining.web"}},
+      {"PRIMARY_KEYS": {"classname": "cst_ticket", "outlet_name": "object_details", "outlet_position_identifier": "268af43f-90aa-11f1-8554-ac91a1fe8009", "role_id": "public"}, "DATA": {"cdb_module_id": "cstraining.web"}},
+      {"PRIMARY_KEYS": {"classname": "cst_ticket", "outlet_name": "object_details", "outlet_position_identifier": "f80c6f06-90a9-11f1-8554-ac91a1fe8009", "role_id": "public"}, "DATA": {"cdb_module_id": "cstraining.web"}}
+    ],
+    "CONTENT_DOMAIN": "",
+    "UPDATE_POLICY": "ALWAYS UPDATED"
+  }
+}
