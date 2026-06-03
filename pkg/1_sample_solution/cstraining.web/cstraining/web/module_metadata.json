@@ -1,0 +1,20 @@
+{
+  "build_info": {
+    "export_version": 7
+  },
+  "dependencies": [],
+  "module": {
+    "DATA": {
+      "cdb_object_id": "edb7ab35-7256-11e9-9c27-e4a471c02050",
+      "master_config_checksum": "2c1e0f6a3bf46e9f85bf3623705f5188",
+      "name": "Customer module",
+      "package": "cstraining.web"
+    },
+    "LONGTEXTS": {
+      "cdb_module_txt": ""
+    },
+    "PRIMARY_KEYS": {
+      "module_id": "cstraining.web"
+    }
+  }
+}

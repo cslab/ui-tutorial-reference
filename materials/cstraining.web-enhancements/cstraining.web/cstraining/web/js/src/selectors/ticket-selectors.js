@@ -1,0 +1,37 @@
+import Immutable from "immutable";
+import { reselect } from "cs-web-components-externals";
+
+export function getObjectsById(state) {
+  return state.objectsById
+    .valueSeq()
+    .reduce(
+      (byObjectId, obj) => byObjectId.set(obj.get("cdb_object_id"), obj),
+      Immutable.Map(),
+    );
+}
+
+export function createTicketCache(ticketFilter) {
+  return reselect.createSelector([getObjectsById], (objectsByObjectId) =>
+    objectsByObjectId
+      .filter((obj) => obj.get("system:classname") === "cst_ticket")
+      .filter(ticketFilter)
+      .valueSeq()
+      .toList(),
+  );
+}
+
+export function getTicketFilter(state, props) {
+  return props.ticketFilter;
+}
+
+export function createTicketCacheWithFilter() {
+  return reselect.createSelector(
+    [getObjectsById, getTicketFilter],
+    (objectsByObjectId, ticketFilter) =>
+      objectsByObjectId
+        .filter((obj) => obj.get("system:classname") === "cst_ticket")
+        .filter(ticketFilter)
+        .valueSeq()
+        .toList(),
+  );
+}
