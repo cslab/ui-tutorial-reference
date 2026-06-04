@@ -1,6 +1,8 @@
 # Reference Implementation for CONTACT Elements UI Development Tutorial
 Sample solution for the Elements UI Development Tutorial.
 
+**This Version is suitable for CONTACT Elements UR 15.7**
+
 The tutorial will guide you through the complete process of installing a 
 CONTACT Elements instance and implementing your own application with it.
 You can use the contents of this repository to start with the tutorial exercises
